@@ -12,4 +12,5 @@
 	2. python 爬虫
 		* [源码](https://github.com/another1s/graduationproject/blob/master/python_code/spider.py)
 	3. 神经网络模型
-		
+		* [RBF神经网络](https://github.com/another1s/graduationproject/blob/master/matlab_code/RBF.m)
+		* [测试用的杜芬振子](https://github.com/another1s/graduationproject/blob/master/matlab_code/duffing.m)
