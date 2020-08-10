@@ -1,5 +1,5 @@
 import csv
-from readexcel import share_data
+from readexcel import *
 import os
 import numpy as np
 from numpy import array, append, vstack, transpose, reshape,dot, true_divide, mean, exp, sqrt, log,loadtxt, savetxt, zeros, frombuffer

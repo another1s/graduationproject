@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 scikit-learn = "*"
+numpy = "*"
 
 [packages]
 matplotlib = "*"
