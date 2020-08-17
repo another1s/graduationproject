@@ -1,18 +1,11 @@
-# graduationproject
-	project for graduation of SCUT
-1.	课题概述
-	* [开题报告](https://github.com/another1s/graduationproject/tree/master/%E6%8A%A5%E5%91%8A%E4%B9%A6)	
-2. 进度记录
-	* [2018-03-14报告](https://github.com/another1s/graduationproject/blob/master/%E6%8A%A5%E5%91%8A%E4%B9%A6/2018-03-14.docx) 爬取了22家金融业公司近三年内的EPS数据...
-	* [2018-03-22]
-3. 毕业设计
-	1. 原始数据
-		* [EPS数据集](https://github.com/another1s/graduationproject/blob/master/database/eps_value.md)
-		* [P/B数据集](https://github.com/another1s/graduationproject/blob/master/database/pb_ratio.md)
-		* 
-		*
-	2. python 爬虫
-		* [源码](https://github.com/another1s/graduationproject/blob/master/python_code/spider.py)
-	3. 神经网络模型
-		* [RBF神经网络](https://github.com/another1s/graduationproject/blob/master/matlab_code/RBF.m)
-		* [测试用的杜芬振子](https://github.com/another1s/graduationproject/blob/master/matlab_code/duffing.m)
+# graduation project extended
+	project for graduation in SCUT, but i got an idea to upgrade it
+
+## motivation
+this tool will be used for analysing funds, which will include two major functions:  
+1. investment model based on classic method
+2. a sentiment-analysis based model that used for extracting information from news
+3. a feature(word)-extraction model used for capturing focus of the company reports and announcement 
+
+# data collection
+东方财富旗下天天基金网 http://fund.eastmoney.com/fund.html#os_0;isall_0;ft_;pt_1
